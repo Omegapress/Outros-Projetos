@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/07/03 18:57:29.000.902,=C:\Users\Taiane Abreu\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/07/03 19:23:03.000.539,C:\Users\Taiane Abreu\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\ListaContatoAcess\Unit2.dfm</Transaction>
+    <Transaction>2023/07/03 19:23:03.000.539,C:\Users\Taiane Abreu\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\ListaContatoAcess\Unit2.pas</Transaction>
+    <Transaction>2023/07/03 19:23:43.000.636,C:\Users\Taiane Abreu\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\ListaContatoAcess\Project2.dproj</Transaction>
+    <Transaction>2023/07/03 19:40:23.000.732,C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\ListaContatoAcess\Project2.dproj=C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\ListaContatoAcess\ProjectListaContatos.dproj</Transaction>
+    <Transaction>2023/07/03 19:40:38.000.764,C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\ListaContatoAcess\Unit2.pas=C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\ListaContatoAcess\UnitContatos.pas</Transaction>
+    <Transaction>2023/07/03 19:40:38.000.764,C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\ListaContatoAcess\Unit2.dfm=C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\ListaContatoAcess\UnitContatos.dfm</Transaction>
+    <Transaction>2023/07/03 21:08:54.206,=C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\ListaContatoAcess\Unit1.pas</Transaction>
+    <Transaction>2023/07/03 21:11:58.060,C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\ListaContatoAcess\UnitLogin.pas=C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\ListaContatoAcess\Unit1.pas</Transaction>
+    <Transaction>2023/07/03 21:11:58.060,C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\ListaContatoAcess\UnitLogin.dfm=C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\ListaContatoAcess\Unit1.dfm</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="UnitLogin.pas"/>
+    <File Path="UnitLogin.dfm"/>
+    <File Path="UnitContatos.pas"/>
+    <File Path="UnitContatos.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

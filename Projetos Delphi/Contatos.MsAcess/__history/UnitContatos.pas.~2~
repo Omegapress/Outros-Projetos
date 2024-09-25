@@ -1,0 +1,42 @@
+unit UnitContatos;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Data.DB, Vcl.StdCtrls, Vcl.ExtCtrls,
+  Data.Win.ADODB, Vcl.Mask, Vcl.DBCtrls, Vcl.Grids, Vcl.DBGrids;
+
+type
+  TlstContatos = class(TForm)
+    DataSource: TDataSource;
+    DBGrid: TDBGrid;
+    DBNavigator: TDBNavigator;
+    DBTextCodigo: TDBText;
+    DBEditNome: TDBEdit;
+    DBEditNumero: TDBEdit;
+    ADOConn: TADOConnection;
+    ADOTable: TADOTable;
+    pnlTop: TPanel;
+    pnlBottom: TPanel;
+    pnlClient: TPanel;
+    lblNome: TLabel;
+    lblNumero: TLabel;
+    DBTextNome: TDBText;
+    pnlEditClient: TPanel;
+    lblRodaPe: TLabel;
+    Label1: TLabel;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  lstContatos: TlstContatos;
+
+implementation
+
+{$R *.dfm}
+
+end.
