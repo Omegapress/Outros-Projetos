@@ -1,0 +1,1 @@
+- Projeto em que calcula a quantidade de tinta gasta de acordo com o tamanho do comodo de um ambiente
