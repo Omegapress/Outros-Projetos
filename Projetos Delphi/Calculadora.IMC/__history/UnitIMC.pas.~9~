@@ -1,0 +1,81 @@
+unit UnitIMC;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.ExtCtrls,
+  Vcl.Imaging.pngimage;
+
+type
+  TForm1 = class(TForm)
+    PanelTop: TPanel;
+    LabelTitulo: TLabel;
+    ImageIMC: TImage;
+    PanelBottom: TPanel;
+    PanelClient: TPanel;
+    LabelRodape: TLabel;
+    LabelPeso: TLabel;
+    LabelAltura: TLabel;
+    LabelResultado: TLabel;
+    EditPeso: TEdit;
+    EditAltura: TEdit;
+    EditResultado: TEdit;
+    ButtonCalcular: TButton;
+    procedure ButtonCalcularClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+
+procedure TForm1.ButtonCalcularClick(Sender: TObject);
+
+var
+
+  peso, altura, resultado : double;
+
+begin
+
+  peso := StrToFloatDef(editPeso.Text , 0);
+  altura := StrToFloatDef(editAltura.Text , 0);
+
+  resultado := (peso / (altura * altura));
+
+  if resultado <= 18.5 then
+
+    ShowMessage('O IMC esta com um resultado abaixo do peso');
+
+    if (resultado >= 18.6) and (resultado <= 24.9) then
+
+    ShowMessage('O IMC esta com um resultado no seu peso ideal, Parabéns');
+
+    if (resultado >= 25) and (resultado <= 29.9) then
+
+    ShowMessage('O IMC esta com um resultado Levemente acima do peso');
+
+    if (resultado >=30) and (resultado <= 34.9) then
+
+    ShowMessage('O IMC esta com um resultado Obsidade grau I');
+
+    if (resultado >= 35) and (resultado <= 39.9) then
+
+    ShowMessage('O IMC esta com um resultado Obsidade grau II, Severa');
+
+    if (resultado >= 40) then
+
+    ShowMessage('O IMC esta com um resultado Obsidade grau III, Morbida');
+
+
+
+end;
+
+end.

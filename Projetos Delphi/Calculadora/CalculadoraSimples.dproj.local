@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/05/23 13:48:01.000.595,=C:\Users\abreufa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/23 13:48:17.000.198,C:\Users\abreufa\Documents\Embarcadero\Studio\Projects\CalculadoraSimples.dproj=C:\Users\abreufa\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/05/23 13:48:35.000.159,C:\Users\abreufa\Documents\Embarcadero\Studio\Projects\UnitCalculadoraSimples.pas=C:\Users\abreufa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/23 13:48:35.000.159,C:\Users\abreufa\Documents\Embarcadero\Studio\Projects\UnitCalculadoraSimples.dfm=C:\Users\abreufa\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/05/23 13:51:27.000.436,C:\Users\abreufa\Desktop\Delphi\Projetos\CalculadoraSimples\UnitCalculadoraSimples.dfm=C:\Users\abreufa\Documents\Embarcadero\Studio\Projects\UnitCalculadoraSimples.dfm</Transaction>
+    <Transaction>2023/05/23 13:51:27.000.436,C:\Users\abreufa\Desktop\Delphi\Projetos\CalculadoraSimples\UnitCalculadoraSimples.pas=C:\Users\abreufa\Documents\Embarcadero\Studio\Projects\UnitCalculadoraSimples.pas</Transaction>
+    <Transaction>2023/05/23 13:52:10.000.128,C:\Users\abreufa\Desktop\Delphi\Projetos\CalculadoraSimples\CalculadoraSimples.dproj=C:\Users\abreufa\Documents\Embarcadero\Studio\Projects\CalculadoraSimples.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
