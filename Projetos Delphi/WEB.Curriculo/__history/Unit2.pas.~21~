@@ -1,0 +1,89 @@
+unit Unit2;
+
+interface
+
+uses
+  Classes, SysUtils, IWAppForm, IWApplication, IWColor, IWTypes, Vcl.Controls,
+  IWVCLBaseControl, IWBaseControl, IWBaseHTMLControl, IWControl, IWCompLabel,
+  IWCompRectangle, IWCompExtCtrls, Vcl.ExtCtrls, IWCompMemo, IWHTMLControls;
+
+type
+  TIWFormPrincipal = class(TIWAppForm)
+    IWRecEsquerda: TIWRectangle;
+    IWRecClient: TIWRectangle;
+    IWImage1: TIWImage;
+    IWLabel1: TIWLabel;
+    IWLabel2: TIWLabel;
+    IWLabel3: TIWLabel;
+    IWLabel4: TIWLabel;
+    IWLabel5: TIWLabel;
+    IWLabel6: TIWLabel;
+    IWLabel7: TIWLabel;
+    IWLabel8: TIWLabel;
+    IWLabel9: TIWLabel;
+    IWLabel10: TIWLabel;
+    IWLabel11: TIWLabel;
+    IWLabel13: TIWLabel;
+    IWLabel12: TIWLabel;
+    TrayIcon1: TTrayIcon;
+    TrayIcon2: TTrayIcon;
+    TrayIcon3: TTrayIcon;
+    TrayIcon4: TTrayIcon;
+    TrayIcon5: TTrayIcon;
+    IWImage2: TIWImage;
+    IWImage3: TIWImage;
+    IWImage4: TIWImage;
+    IWImage5: TIWImage;
+    IWImage6: TIWImage;
+    IWLabel14: TIWLabel;
+    IWLabel15: TIWLabel;
+    IWLabel16: TIWLabel;
+    IWLabel17: TIWLabel;
+    IWLabel18: TIWLabel;
+    IWMemo1: TIWMemo;
+    IWLabel19: TIWLabel;
+    IWLabel20: TIWLabel;
+    IWLabel21: TIWLabel;
+    IWLabel22: TIWLabel;
+    IWLabel23: TIWLabel;
+    IWLabel24: TIWLabel;
+    IWLabel25: TIWLabel;
+    IWLabel26: TIWLabel;
+    IWLabel27: TIWLabel;
+    IWLabel28: TIWLabel;
+    IWLabel29: TIWLabel;
+    IWLabel30: TIWLabel;
+    IWLabel31: TIWLabel;
+    IWLabel32: TIWLabel;
+    IWMemo2: TIWMemo;
+    IWMemo3: TIWMemo;
+    IWLabel33: TIWLabel;
+    IWLabel34: TIWLabel;
+    IWLabel36: TIWLabel;
+    IWLabel37: TIWLabel;
+    IWLabel38: TIWLabel;
+    IWMemo4: TIWMemo;
+    IWLabel45: TIWLabel;
+    IWLabel35: TIWLabel;
+    IWLabel39: TIWLabel;
+    IWLabel40: TIWLabel;
+    IWLabel41: TIWLabel;
+    IWLabel42: TIWLabel;
+    IWLabel43: TIWLabel;
+    IWMemo5: TIWMemo;
+    IWLabel44: TIWLabel;
+    IWLabel46: TIWLabel;
+    IWLabel47: TIWLabel;
+    IWLabel49: TIWLabel;
+    IWLabel48: TIWLabel;
+  public
+  end;
+
+implementation
+
+{$R *.dfm}
+
+initialization
+  TIWFormPrincipal.SetAsMainForm;
+
+end.

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/06/14 20:07:14.000.141,=C:\Users\Taiane Abreu\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/06/14 20:07:48.000.641,C:\Users\Taiane Abreu\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\Curriculo\Unit2.dfm</Transaction>
+    <Transaction>2023/06/14 20:07:48.000.641,C:\Users\Taiane Abreu\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\Curriculo\Unit2.pas</Transaction>
+    <Transaction>2023/06/14 20:07:58.000.609,C:\Users\Taiane Abreu\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\Curriculo\Project2.dproj</Transaction>
+    <Transaction>2023/06/14 20:09:12.000.707,=C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\Curriculo\uPrincipal.pas</Transaction>
+    <Transaction>2023/06/14 21:27:42.000.640,C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\Curriculo\uPrincipal.dfm=C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\CurriculoVcl\uPrincipal.dfm</Transaction>
+    <Transaction>2023/06/14 21:27:42.000.640,C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\Curriculo\uPrincipal.pas=C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\CurriculoVcl\uPrincipal.pas</Transaction>
+    <Transaction>2023/06/14 21:28:03.000.462,C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\Curriculo\Project2.dproj=C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\CurriculoVcl\CurriculoVcl.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
