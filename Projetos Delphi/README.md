@@ -1,8 +1,6 @@
 # ProjetosDelphi
-
-Repositório de projetos desenvolvidos com Delphi 11.
-
-  - Desenvolvimento do Projeto IMC, onde ocorre o calculo do IMC.
-  - Desenvolvimento do Projeto CalculadoraSimples, onde é feito calculos com as 4 operações simples.
-  - Desenvolvimento do Projeto CurriculoWeb, criação do curriculo em web utilizando o intraweb do delphi.
-  - Desenvolvimento do Projeto CurriculoVcl, criação do curriculo utilizando componentes nativos no delphi.
+- Projeto IMC: Neste projeto, desenvolvi uma aplicação que calcula o Índice de Massa Corporal (IMC) com base na altura e peso do usuário. A ferramenta oferece uma interface simples e eficaz, permitindo que os usuários entendam rapidamente seu estado nutricional e tomem decisões informadas sobre sua saúde.
+- Calculadora Simples: Desenvolvi uma calculadora intuitiva em Delphi, que realiza as principais operações matemáticas. Este projeto exemplifica como uma interface amigável pode tornar a aprendizagem de conceitos básicos de programação mais acessível e atraente.
+- Currículo em VCL: Um sistema de currículo criado em VCL que utiliza os principais componentes de Desktop. Este projeto destaca a capacidade de criar interfaces eficientes e integrar dados, permitindo a personalização de currículos de forma prática e organizada.
+- Currículo em Web: Em uma versão moderna do currículo, utilizei o plugin IntraWeb para desenvolver uma aplicação web dinâmica. Esta solução oferece uma maneira acessível de apresentar habilidades e experiências profissionais, refletindo a evolução do formato tradicional de currículo.
+- Lista de Contatos Telefônicos: Um aplicativo em Delphi que gerencia contatos utilizando o Microsoft Access como banco de dados. Este projeto demonstra minha habilidade em integrar sistemas de gestão de dados e construir interfaces que facilitam o acesso à informação.
